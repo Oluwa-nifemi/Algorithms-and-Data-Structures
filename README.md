@@ -1,4 +1,5 @@
-###Why
+Why
+-------------
 
 This repository is for saving 
 1. The stuff I learnt while going through this (https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) course
@@ -7,7 +8,8 @@ This repository is for saving
 
 I hope someone finds the stuff here useful sometime in the future :-)
 
-###How to run
+How to run
+--------------
 Install nodejs at https://nodejs.org/ and run node {fileName} to run whatever file
 
 I added comments in some of the more complex files to help walkthrough the code.
